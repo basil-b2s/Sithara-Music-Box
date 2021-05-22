@@ -14,6 +14,6 @@ Flask framework is used to deploy this machine learning model. The github reposi
 The frontend of web page is created using simple HTML and CSS.
 
 <h2>Deployed application</h2>
-<p>Check out the deployed web app by clicking this link. Enter first few words of the Sithara'S song that you want to hear, the model will generate its lyrics. Hope you'll like it.<br></p>
+<p>Check out the deployed web app by clicking this link. Enter first few words of the Sithara'S song and the model will generate its lyrics. Hope you'll like it.<br></p>
 
 ![image](https://user-images.githubusercontent.com/63139488/119091834-4346b700-ba2b-11eb-9e8e-072381372ad6.png)
