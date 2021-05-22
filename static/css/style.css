@@ -1,0 +1,70 @@
+body {
+  background: url("static/img/bg2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  text-shadow: 10px 5px 8px #000000;
+}
+
+.heading {
+  color: white;
+  font-size: 60px;
+  font-style: italic;
+  margin: 30px 0;
+}
+.text {
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+  margin: 30px 0;
+}
+.box {
+  margin-top: 40px;
+}
+img {
+  width: 300px;
+  border-radius: 10%;
+}
+input {
+  border-width: 10px;
+  height: 40px;
+  text-align: center;
+  width: 300px;
+  font-weight: bold;
+  box-shadow: 10px 5px 8px #000000;
+}
+.inputs {
+  margin-left: 350px;
+  width: fit-content;
+  background-color: rgb(161, 161, 161);
+  color: rgb(225, 253, 255);
+}
+.output {
+  padding-left: 25%;
+  padding-right: 25%;
+  align-items: center;
+  text-align: center;
+}
+textarea {
+  border-width: 10px;
+  border-color: gray;
+  overflow: scroll;
+  font-weight: bold;
+  box-shadow: 10px 5px 8px #000000;
+}
+button {
+  border-radius: 10%;
+  border-width: 4px;
+  width: 70px;
+  height: 40px;
+  color: red;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: bold;
+  box-shadow: 10px 5px 8px #000000;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
