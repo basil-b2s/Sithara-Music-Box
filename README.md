@@ -1,7 +1,7 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Sithara Song Generator
 <h1>" സിത്താര ചേച്ചീടെ പാട്ടുപെട്ടി "</h1>
-This is basically a lyrics generator build using NLP, that will provide you the lyrics of famous singer predominant in the malayalam industry Ms.Sithara Krishnakumar using the pre-trained model. Enter the first few words of the song and lyrics will be displayed to you. Click <a href="https://sithara-lyrics-generator.herokuapp.com/">here</a> to view the website.
+This is basically a lyrics generator build using NLP, that will provide you the lyrics of famous singer predominant in the malayalam industry Ms.Sithara Krishnakumar using the pre-trained model. Enter the first few words of the song and lyrics will be displayed to you.
 
 ## Team members
 1. <a href="https://github.com/basil-b2s">Basil Saji</a>
